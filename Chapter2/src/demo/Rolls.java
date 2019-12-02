@@ -8,6 +8,7 @@ import edu.princeton.cs.algs4.StdRandom;
 /**
  * 掷色子
  * test commit for sirniclolas
+ * test commit for heyahui
  */
 public class Rolls {
     public static void main(String[] args) {
